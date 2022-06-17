@@ -1,0 +1,30 @@
+SoundMap {
+    KunalSub{
+        longUniqueKeyForEachSession1{
+            dateAndTimeString,
+            one{log, lat, aud},
+            two{log, lat, aud},
+            three{log, lat, aud}
+        },
+        longUniqueKeyForEachSession2{
+            dateAndTimeString,
+            one{log, lat, aud},
+            two{log, lat, aud},
+            three{log, lat, aud}
+        }
+    }
+    RoxySub{
+        longUniqueKeyForEachSession1{
+            dateAndTimeString,
+            one{log, lat, aud},
+            two{log, lat, aud},
+            three{log, lat, aud}
+        },
+        longUniqueKeyForEachSession2{
+            dateAndTimeString,
+            one{log, lat, aud},
+            two{log, lat, aud},
+            three{log, lat, aud}
+        }
+    }
+}
