@@ -1,15 +1,5 @@
-# Easy User Authentication for React Apps
+ICHOS SoundMap Data Collection Website
 
-## Get Started
+In this study, we propose ICHOS - an application model aiming to collect noise data through crowdsourcing techniques which could later be mapped and used to improve the understanding of how sounds and noise affect the cityscape.
 
-Install project dependencies:
-
-```bash
-yarn
-```
-
-Run the project:
-
-```bash
-yarn start
-```
+This is a React SPA WebApp
